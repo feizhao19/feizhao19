@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on ... Ballot Fraud Detection, a AI-based project, which is not available to public yet.
 - 🌱 I’m currently learning ... Deep Multi-modal Data Fusion
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... larry5@uab.edu
+- 📫 How to reach me: ... zhaof.thu@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Go Hiking/Fishing every weekend~
