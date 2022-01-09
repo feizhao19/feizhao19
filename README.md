@@ -8,3 +8,4 @@
 - 📫 How to reach me: ... zhaof.thu@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Go Hiking/Fishing every weekend~
+- 🌱 Stay Safe~ Get some Tylenol in the drawer
