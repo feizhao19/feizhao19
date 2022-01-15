@@ -7,5 +7,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... zhaof.thu@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Go Hiking/Fishing every weekend~
-- 🌱 Quotes: Trainable, Coachable, Hungry
+- ⚡  Quotes: Trainable, Coachable, Hungry
