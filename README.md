@@ -6,7 +6,7 @@ I am a **Ph.D. candidate in Computer Science** at **[The University of Alabama a
 
 #### 🔬 Research & Projects  
 - **Mitigating Hallucinations in Vision-Language Models** – Developing reinforcement learning-based test-time adaptation to reduce hallucinations in multimodal models.  
-- **CheckGuard** – Created a large-scale cross-modal dataset for **stolen check detection** and ** information extraction**  using **Vision-Language Models (VLMs)**.  
+- **CheckGuard** – Created a large-scale cross-modal dataset for **stolen check detection** and **information extraction**  using **Vision-Language Models (VLMs)**.  
 - **Remote Sensing & Disaster Assessment** – Designed a **visual prompt learning** approach for post-disaster damage evaluation, surpassing state-of-the-art methods.  
 - **AI for Election Security** – Built a **Siamese Transformer-based model** for **ballot fraud detection**, contributing to a **$1.2M NSF grant**.
 - 
