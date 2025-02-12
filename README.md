@@ -11,7 +11,7 @@ I am a **Ph.D. candidate in Computer Science** at **[The University of Alabama a
 - **AI for Election Security** – Built a **Siamese Transformer-based model** for **ballot fraud detection**, contributing to a **$1.2M NSF grant**.
 
 
-#### 🌱 Currently Learning  
+#### 🌱 Currently Working on  
 - Vision-Language Models **Hallucination Mitigation**  
 - Vision-Language Models **chain of Thought (CoT)**  
 - Advanced **Deep Multimodal Data Fusion** techniques  
