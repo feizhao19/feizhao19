@@ -1,7 +1,7 @@
 ### Hi, I'm Fei Zhao! 👋  
 
 #### About Me  
-I am a Ph.D. candidate in Computer Science at [The University of Alabama at Birmingham (UAB)](https://www.uab.edu/) with a 4.0 GPA, specializing in **Multimodal Information Integration**, **Cross-Modal Generation**, **Ranking** and **Retrieval**. With **15 years of experience** in both research and engineering, I have published **17 papers** (14 as the first author) in top-tier venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**.  
+I am a Ph.D. candidate in Computer Science at [The University of Alabama at Birmingham (UAB)](https://www.uab.edu/) with a 4.0 GPA, specializing in **Multimodal Information Integration**, **Ranking** and **Retrieval**. With **15 years of experience** in both research and engineering, I have published **17 papers** (14 as the first author) in top-tier venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**.  
 
 
 #### 🔬 Research & Projects  
