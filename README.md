@@ -5,7 +5,7 @@ I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at [The Uni
 
 
 #### 🔬 Research & Projects  
-- **Multimodal AI Agents** – Designing **agentic workflows in AR environments** and developing **evaluation frameworks for multimodal AI agent systems**.  
+- **Multimodal AI Agents** – Designing **agentic workflows in AR environments** and developing **evaluation frameworks for agentic workflows**.  
 - **Mitigating Hallucinations** – Developing **test-time adaptation and RL-based approaches** to reduce hallucinations in vision–language models.  
 - **CheckGuard** – Created a **large-scale cross-modal dataset** for stolen check detection and multimodal information extraction.  
 - **Remote Sensing & Disaster Assessment** – Designed **visual prompt learning approaches** for post-disaster building damage evaluation.  
