@@ -1,6 +1,6 @@
 ### Hi, I'm Fei Zhao! 👋  
 
-#### About Me  
+#### 🙋 About Me  
 I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at [The University of Alabama at Birmingham (UAB)](https://www.uab.edu/), where I received my **Ph.D. in Computer Science in December 2025**, specializing in **Multimodal AI**, **Vision–Language Models**, **Ranking**, and **Retrieval**. With **15+ years of experience** in both research and engineering, I have published **18 papers** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. My research focuses on building **reliable multimodal AI systems** and improving model robustness through **reinforcement learning**, **contrastive learning**, and **test-time adaptation**.
 
 
