@@ -1,16 +1,15 @@
 ### Hi, I'm Fei Zhao! 👋  
 
 #### 🙋 About Me  
-I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at [The University of Alabama at Birmingham (UAB)](https://www.uab.edu/), where I received my **Ph.D. in Computer Science in December 2025**, specializing in **Multimodal AI**, **Vision–Language Models**, **Ranking**, and **Retrieval**. With **15+ years of experience** in both research and engineering, I have published **17 papers** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. My research focuses on building **reliable multimodal AI systems** and improving model robustness through **reinforcement learning**, **contrastive learning**, and **test-time adaptation**.
+I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at the University of Alabama at Birmingham (UAB), USA, where I received my **Ph.D. in Computer Science** in December 2025, specializing in **Multimodal AI**, **Computer Vision**, **Vision–Language Models**, **Ranking/Retrieval**, and **Agentic Decision Making**. With **15+ years of experience** in both research and engineering, I have published **17 papers** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. 
 
 
 #### 🔬 [Research & Projects](https://feizhao19.github.io/)
-- **Multimodal AI Agents** – Designing **agentic workflows in AR environments** and developing **evaluation frameworks for agentic workflows**.  
-- **Mitigating Hallucinations** – Developing **test-time adaptation and RL-based approaches** to reduce hallucinations in vision–language models.  
-- **CheckGuard** – Created a **large-scale cross-modal dataset** for stolen check detection and multimodal information extraction.  
-- **Remote Sensing & Disaster Assessment** – Designed **visual prompt learning approaches** for post-disaster building damage evaluation.  
-- **Security** – Built **contrastive and Siamese-based models** for same-hand ballot stuffing detection, contributing to a **$1.2M NSF grant**.
-
+- **Multimodal AI Agents** – Designing **perception agents** for AR systems and developing evaluation frameworks for agentic workflows.  
+- **Mitigating Hallucinations** – Developing **test-time adaptation and RL-based approaches** to reduce hallucinations in VLMs.  
+- **Cross-modal Generation** –  Created a large-scale **synthetic image–text dataset** and **fine-tuned** foundation models for image understanding, and structured information extraction.  
+- **Computer Vision** – Designed **visual prompt learning approaches** for post-disaster building damage evaluation.  
+- **Security** – Developed **contrastive learning** and Siamese network-based methods for ballot fraud detection, contributing to a **$1.2M NSF-funded research project**.
 
 #### 📫 Contact Me  
 - 📧 **Email**: [larry5@uab.edu](mailto:larry5@uab.edu)  
