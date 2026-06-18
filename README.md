@@ -4,7 +4,7 @@
 I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at [The University of Alabama at Birmingham (UAB)](https://www.uab.edu/), where I received my **Ph.D. in Computer Science in December 2025**, specializing in **Multimodal AI**, **Vision–Language Models**, **Ranking**, and **Retrieval**. With **15+ years of experience** in both research and engineering, I have published **17 papers** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. My research focuses on building **reliable multimodal AI systems** and improving model robustness through **reinforcement learning**, **contrastive learning**, and **test-time adaptation**.
 
 
-#### 🔬 Research & Projects  
+#### 🔬 [https://feizhao19.github.io/](Research & Projects)
 - **Multimodal AI Agents** – Designing **agentic workflows in AR environments** and developing **evaluation frameworks for agentic workflows**.  
 - **Mitigating Hallucinations** – Developing **test-time adaptation and RL-based approaches** to reduce hallucinations in vision–language models.  
 - **CheckGuard** – Created a **large-scale cross-modal dataset** for stolen check detection and multimodal information extraction.  
