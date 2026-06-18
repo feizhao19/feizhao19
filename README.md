@@ -11,11 +11,5 @@ I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at the Univ
 - **Computer Vision** – Designed **visual prompt learning approaches** for post-disaster building damage evaluation.  
 - **Security** – Developed **contrastive learning** and Siamese network-based methods for ballot fraud detection, contributing to a $1.2M NSF-funded research project.
 
-#### 📫 Contact Me  
-- 📧 **Email**: [larry5@uab.edu](mailto:larry5@uab.edu)  
-- 🔗 **LinkedIn**: [linkedin.com/in/fei-zhao-6a762724a](https://www.linkedin.com/in/fei-zhao-6a762724a/)  
-- 🌐 **Website**: [https://feizhao19.github.io/#publications](https://feizhao19.github.io/#publications)  
-
-
 #### ⚡ Philosophy  
 Trainable. Coachable. Hungry.
