@@ -9,7 +9,7 @@ I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at the Univ
 - **Mitigating Hallucinations** – Developing **test-time adaptation and RL-based approaches** to reduce hallucinations in VLMs. 
 - **Cross-modal Generation** –  Created a large-scale **synthetic image–text dataset** and **fine-tuned** foundation models for image understanding, and structured information extraction.  
 - **Computer Vision** – Designed **visual prompt learning approaches** for post-disaster building damage evaluation.  
-- **Security** – Developed **contrastive learning** and Siamese network-based methods for ballot fraud detection, contributing to a **$1.2M NSF-funded research project**.
+- **Security** – Developed **contrastive learning** and Siamese network-based methods for ballot fraud detection, contributing to a $1.2M NSF-funded research project.
 
 #### 📫 Contact Me  
 - 📧 **Email**: [larry5@uab.edu](mailto:larry5@uab.edu)  
