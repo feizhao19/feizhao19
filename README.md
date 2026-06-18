@@ -5,7 +5,7 @@ I am a **Machine Learning Research Scientist (Postdoctoral Fellow)** at the Univ
 
 
 #### 🔬 [Research & Projects](https://feizhao19.github.io/)
-- **Multimodal AI Agents** – Designing **perception agents** for AR systems and developing evaluation frameworks for agentic workflows.  
+- **Multimodal AI Agents** – Designing **perception agents** for AR systems and evaluation frameworks for agentic workflows.  
 - **Mitigating Hallucinations** – Developing **test-time adaptation and RL-based approaches** to reduce hallucinations in VLMs.  
 - **Cross-modal Generation** –  Created a large-scale **synthetic image–text dataset** and **fine-tuned** foundation models for image understanding, and structured information extraction.  
 - **Computer Vision** – Designed **visual prompt learning approaches** for post-disaster building damage evaluation.  
