@@ -2,8 +2,7 @@
 
 # Hi, I'm Fei Zhao
 
-Ph.D. in Computer Science @ UAB  
-Machine Learning Research Scientist (Postdoctoral Fellow) @ UAB
+Machine Learning Research Scientist (Postdoctoral Fellow) @ UAB, Ph.D. in Computer Science
 
 [![Homepage](https://img.shields.io/badge/Homepage-feizhao19.github.io-0A5C36?style=for-the-badge&logo=githubpages&logoColor=white)](https://feizhao19.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Fei%20Zhao-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-CBzUKwAAAAJ&hl=en)
