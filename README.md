@@ -17,7 +17,7 @@ I received my Ph.D. in Computer Science at the University of Alabama at Birmingh
 #### [Research Vision](https://feizhao19.github.io/#bio)
 
 <p align="center">
-  <a href="https://feizhao19.github.io/#project-building-damage">
+  <a href="https://feizhao19.github.io/#publications">
     <img src="data/overall_interest.png" alt="Research interests overview: spatial perception and autonomy, multimodal learning, foundation models, and agentic AI" width="600">
   </a>
 </p>
