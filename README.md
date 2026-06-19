@@ -12,7 +12,7 @@ Ph.D. in Computer Science, Machine Learning Research Scientist (Postdoctoral Fel
 </div>
 
 #### [About Me](https://feizhao19.github.io/#bio) 
-I am a **Machine Learning Research Scientist** at the University of Alabama at Birmingham (UAB), USA, where I received my **Ph.D. in Computer Science** in December 2025, specializing in **Multimodal AI**, **Computer Vision**, **Vision–Language Models**, **Ranking/Retrieval**, and **Agentic Decision Making**. With 15+ years of experience in both research and engineering, I have published **[17 papers](https://feizhao19.github.io/#publications)** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. 
+I received my **Ph.D. in Computer Science** at the University of Alabama at Birmingham (UAB) in December 2025, specializing in **Multimodal AI**, **Computer Vision**, **Vision–Language Models**, **Ranking/Retrieval**, and **Agentic Decision Making**. With 15+ years of experience in both research and engineering, I have published **[17 papers](https://feizhao19.github.io/#publications)** (14 as first author) in venues such as ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys. 
 
 #### [Research & Projects](https://feizhao19.github.io/#project-building-damage)
 
@@ -20,6 +20,6 @@ I am a **Machine Learning Research Scientist** at the University of Alabama at B
 
 <p align="center">
   <a href="https://feizhao19.github.io/#project-building-damage">
-    <img src="data/overall_interest.png" alt="Research interests overview: spatial perception and autonomy, multimodal learning, foundation models, and agentic AI" width="700">
+    <img src="data/overall_interest.png" alt="Research interests overview: spatial perception and autonomy, multimodal learning, foundation models, and agentic AI" width="600">
   </a>
 </p>
