@@ -11,15 +11,15 @@ Ph.D. in Computer Science, Machine Learning Research Scientist (Postdoctoral Fel
 
 </div>
 
-#### 🙋 [About Me](https://feizhao19.github.io/#bio) 
-I am a **Machine Learning Research Scientist** at the University of Alabama at Birmingham (UAB), USA, where I received my **Ph.D. in Computer Science** in December 2025, specializing in **Multimodal AI**, **Computer Vision**, **Vision–Language Models**, **Ranking/Retrieval**, and **Agentic Decision Making**. With **15+ years of experience** in both research and engineering, I have published **[17 papers](https://feizhao19.github.io/#publications)** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. 
+#### [About Me](https://feizhao19.github.io/#bio) 
+I am a **Machine Learning Research Scientist** at the University of Alabama at Birmingham (UAB), USA, where I received my **Ph.D. in Computer Science** in December 2025, specializing in **Multimodal AI**, **Computer Vision**, **Vision–Language Models**, **Ranking/Retrieval**, and **Agentic Decision Making**. With 15+ years of experience in both research and engineering, I have published **[17 papers](https://feizhao19.github.io/#publications)** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. 
 
-#### 🔬 [Research & Projects](https://feizhao19.github.io/#project-building-damage)
+#### [Research & Projects](https://feizhao19.github.io/#project-building-damage)
 
-**Research Vision:** My research seeks to develop learning systems that can transform **multimodal observations** into **actionable knowledge**. I am particularly interested in enabling machines to generate grounded representations, reason under uncertainty, evaluate their own outputs, and make reliable decisions in complex environments. To advance this vision, my research is organized around four interconnected pillars: **multimodal perception**, **multimodal learning**, **foundation models**, and **agentic decision making**.
+**Research Vision:** My research seeks to develop learning systems that can transform multimodal observations into actionable knowledge. I am particularly interested in enabling machines to generate grounded representations, reason under uncertainty, evaluate their own outputs, and make reliable decisions in complex environments. To advance this vision, my research is organized around four interconnected pillars: **spatial perception**, **multimodal learning**, **foundation models**, and **agentic decision making**.
 
 <p align="center">
   <a href="https://feizhao19.github.io/#project-building-damage">
-    <img src="data/overall_interest.png" alt="Research interests overview: spatial perception and autonomy, multimodal learning, foundation models, and agentic AI" width="900">
+    <img src="data/overall_interest.png" alt="Research interests overview: spatial perception and autonomy, multimodal learning, foundation models, and agentic AI" width="700">
   </a>
 </p>
