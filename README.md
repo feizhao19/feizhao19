@@ -16,8 +16,6 @@ I received my Ph.D. in Computer Science at the University of Alabama at Birmingh
 
 #### [Research & Projects](https://feizhao19.github.io/#project-building-damage)
 
-**Research Vision:** My research seeks to develop learning systems that can transform multimodal observations into actionable knowledge. I am particularly interested in enabling machines to generate grounded representations, reason under uncertainty, evaluate their own outputs, and make reliable decisions in complex environments. To advance this vision, my research is organized around four interconnected pillars: **spatial perception**, **multimodal learning**, **foundation models**, and **agentic decision making**.
-
 <p align="center">
   <a href="https://feizhao19.github.io/#project-building-damage">
     <img src="data/overall_interest.png" alt="Research interests overview: spatial perception and autonomy, multimodal learning, foundation models, and agentic AI" width="600">
