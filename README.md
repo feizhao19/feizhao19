@@ -2,7 +2,7 @@
 
 # Hi, I'm Fei Zhao
 
-Machine Learning Research Scientist (Postdoctoral Fellow) @ UAB, Ph.D. in Computer Science
+Ph.D. in Computer Science, Machine Learning Research Scientist (Postdoctoral Fellow) @ The University of Alabama at Birmingham (UAB)
 
 [![Homepage](https://img.shields.io/badge/Homepage-feizhao19.github.io-0A5C36?style=for-the-badge&logo=githubpages&logoColor=white)](https://feizhao19.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Fei%20Zhao-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-CBzUKwAAAAJ&hl=en)
@@ -15,8 +15,11 @@ Machine Learning Research Scientist (Postdoctoral Fellow) @ UAB, Ph.D. in Comput
 I am a **Machine Learning Research Scientist** at the University of Alabama at Birmingham (UAB), USA, where I received my **Ph.D. in Computer Science** in December 2025, specializing in **Multimodal AI**, **Computer Vision**, **Vision–Language Models**, **Ranking/Retrieval**, and **Agentic Decision Making**. With **15+ years of experience** in both research and engineering, I have published **[17 papers](https://feizhao19.github.io/#publications)** (14 as first author) in venues such as **ACM CIKM, IEEE ICME, ACM SIGSPATIAL, and ACM Computing Surveys**. 
 
 #### 🔬 [Research & Projects](https://feizhao19.github.io/#project-building-damage)
-- **Multimodal AI Agents** – Designing **perception agents** for AR systems and evaluation frameworks for agentic workflows.  
-- **Mitigating Hallucinations** – Developing **test-time adaptation and RL-based approaches** to reduce hallucinations in VLMs. 
-- **Cross-modal Generation** –  Created a large-scale **synthetic image–text dataset** and **fine-tuned** foundation models for image understanding, and structured information extraction.  
-- **Computer Vision** – Designed **visual prompt learning approaches** for post-disaster building damage evaluation.  
-- **Security** – Developed **contrastive learning** and Siamese network-based methods for ballot fraud detection, contributing to a $1.2M NSF-funded research project.
+
+**Research Vision:** My research seeks to develop learning systems that can transform **multimodal observations** into **actionable knowledge**. I am particularly interested in enabling machines to generate grounded representations, reason under uncertainty, evaluate their own outputs, and make reliable decisions in complex environments. To advance this vision, my research is organized around four interconnected pillars: **multimodal perception**, **multimodal learning**, **foundation models**, and **agentic decision making**.
+
+<p align="center">
+  <a href="https://feizhao19.github.io/#project-building-damage">
+    <img src="data/overall_interest.png" alt="Research interests overview: spatial perception and autonomy, multimodal learning, foundation models, and agentic AI" width="900">
+  </a>
+</p>
