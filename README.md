@@ -22,4 +22,4 @@ I received my Ph.D. in Computer Science at the University of Alabama at Birmingh
   </a>
   <br>
   <sub><font color="#888">Click the image to see more.</font></sub>
-</p>
+</p> 
