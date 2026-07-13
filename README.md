@@ -4,10 +4,10 @@
 
 Ph.D. in Computer Science, Machine Learning Research Scientist @ The University of Alabama at Birmingham (UAB)
 
-[![Homepage](https://img.shields.io/badge/Homepage-feizhao19.github.io-0A5C36?style=for-the-badge&logo=githubpages&logoColor=white)](https://feizhao19.github.io/)
+[![Homepage](https://img.shields.io/badge/Homepage-feizhao19.github.io-4285F4?style=for-the-badge&logo=githubpages&logoColor=white)](https://feizhao19.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Fei%20Zhao-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-CBzUKwAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fei%20Zhao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-zhao-6a762724a)
-[![GitHub](https://img.shields.io/badge/GitHub-feizhao19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feizhao19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fei%20Zhao-4285F4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-zhao-6a762724a)
+[![GitHub](https://img.shields.io/badge/GitHub-feizhao19-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feizhao19)
 
 </div>
 
